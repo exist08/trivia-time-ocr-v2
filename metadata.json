@@ -1,0 +1,7 @@
+{
+  "name": "Trivia Local Scanner",
+  "description": "A high-speed local OCR scanner that identifies football trivia questions and provides answers from a local database without using cloud AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
